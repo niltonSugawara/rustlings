@@ -7,7 +7,6 @@
 
 // https://medium.com/rustaceans/rustlings-enums3-rs-issue34-enums-in-rust-35e2f90290eb
 
-use std::arch::aarch64::vset_lane_f32;
 
 enum Message {
     // TODO: implement the message variant types based on their usage below
